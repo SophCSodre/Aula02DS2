@@ -1,0 +1,10 @@
+C:\Users\Laboratorio-Info\source\repos\SolucaoAula02\ProjetoAula02\bin\Debug\ProjetoAula02.exe.config
+C:\Users\Laboratorio-Info\source\repos\SolucaoAula02\ProjetoAula02\bin\Debug\ProjetoAula02.exe
+C:\Users\Laboratorio-Info\source\repos\SolucaoAula02\ProjetoAula02\bin\Debug\ProjetoAula02.pdb
+C:\Users\Laboratorio-Info\source\repos\SolucaoAula02\ProjetoAula02\obj\Debug\ProjetoAula02.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\source\repos\SolucaoAula02\ProjetoAula02\obj\Debug\ProjetoAula02.FormPokemon.resources
+C:\Users\Laboratorio-Info\source\repos\SolucaoAula02\ProjetoAula02\obj\Debug\ProjetoAula02.Properties.Resources.resources
+C:\Users\Laboratorio-Info\source\repos\SolucaoAula02\ProjetoAula02\obj\Debug\ProjetoAula02.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\source\repos\SolucaoAula02\ProjetoAula02\obj\Debug\ProjetoAula02.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\source\repos\SolucaoAula02\ProjetoAula02\obj\Debug\ProjetoAula02.exe
+C:\Users\Laboratorio-Info\source\repos\SolucaoAula02\ProjetoAula02\obj\Debug\ProjetoAula02.pdb
