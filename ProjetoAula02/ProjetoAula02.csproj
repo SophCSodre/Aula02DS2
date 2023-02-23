@@ -89,5 +89,35 @@
   <ItemGroup>
     <None Include="Resources\bulbasaur.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dratini.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eevee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\growlithe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jigglypuff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lapras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pikachu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ponyta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vulpix.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

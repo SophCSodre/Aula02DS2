@@ -31,5 +31,60 @@ namespace ProjetoAula02
         {
             pictureBoxPokemon.Image = Properties.Resources.bulbasaur;
         }
+
+        private void rbtPikachu_CheckedChanged(object sender, EventArgs e)
+        {
+            pictureBoxPokemon.Image = Properties.Resources.Pikachu;
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void rbtAbra_CheckedChanged(object sender, EventArgs e)
+        {
+            pictureBoxPokemon.Image = Properties.Resources.abra;
+        }
+
+        private void rbtDratini_CheckedChanged(object sender, EventArgs e)
+        {
+            pictureBoxPokemon.Image = Properties.Resources.dratini;
+        }
+
+        private void rbtEevee_CheckedChanged(object sender, EventArgs e)
+        {
+            pictureBoxPokemon.Image = Properties.Resources.eevee;
+        }
+
+        private void rbtGrowlithe_CheckedChanged(object sender, EventArgs e)
+        {
+            pictureBoxPokemon.Image = Properties.Resources.growlithe;
+        }
+
+        private void rbtLapras_CheckedChanged(object sender, EventArgs e)
+        {
+            pictureBoxPokemon.Image = Properties.Resources.lapras;
+        }
+
+        private void rbtMew_CheckedChanged(object sender, EventArgs e)
+        {
+            pictureBoxPokemon.Image = Properties.Resources.mew;
+        }
+
+        private void rbtPonyta_CheckedChanged(object sender, EventArgs e)
+        {
+            pictureBoxPokemon.Image = Properties.Resources.ponyta;
+        }
+
+        private void rbtVulpix_CheckedChanged(object sender, EventArgs e)
+        {
+            pictureBoxPokemon.Image = Properties.Resources.vulpix;
+        }
+
+        private void rbtJigglypuff_CheckedChanged(object sender, EventArgs e)
+        {
+            pictureBoxPokemon.Image = Properties.Resources.jigglypuff;
+        }
     }
 }
